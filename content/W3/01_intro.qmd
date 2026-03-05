@@ -115,4 +115,4 @@ While this diagram cleanly separates these roles, the real world is often messie
 
 ## Our World in Data
 
-[OWID](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems. 
+[OWID](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.

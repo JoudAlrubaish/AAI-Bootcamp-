@@ -6,10 +6,14 @@ format: "html"
 
 - Python Basics. To prepare or refresh: [المقدمة البايثونية للبرمجة باللغة العربية](https://halgoz.quarto.pub/pythonia/)
 
+
+## Topics
+
+
+## Schedule
+
 | Lesson | Description | Material | Assignments |
 | ------ | ----------- | -------- | ----------- |
 | 1      |             |          |             | 
-
-## Schedule
 
 [Click to access the Schedule](https://docs.google.com/spreadsheets/d/1I8qq_lphrymOCXXQTBf7ieL2SdGovz_wwqj93PLz2mQ/edit?usp=sharing)
